@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-https://git-wrapped.com/profiles/npjigak
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NPJigaK&layout=compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NPJigaK&show_icons=true)
 <!--
+https://git-wrapped.com/profiles/npjigak
+
 **NPJigaK/NPJigaK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
